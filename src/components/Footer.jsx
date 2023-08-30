@@ -39,25 +39,19 @@ function Footer() {
     <StyledFooter>
       <StyledName>
         Created by:{" "}
-        <span style={{ textDecoration: "underline" }}>Rajan Kashyap</span>
+        <span style={{ textDecoration: "underline" }}>Sidharth Sayam</span>
       </StyledName>
       <StyledLinks>
-        <a href="https://github.com/kashyaprajan11" target="_blank">
+        <a href="https://github.com/sidharthSayam" target="_blank">
           <FaGithub />
         </a>
-        <a
-          href="https://www.linkedin.com/in/rajan-kashyap-713004161/"
-          target="_blank"
-        >
+        <a href="https://www.linkedin.com/in/sidharthsayam/" target="_blank">
           <FaLinkedin />
         </a>
-        <a
-          href="https://www.youtube.com/channel/UC1PAjFkAXMi1Ma-i54qsFyg"
-          target="_blank"
-        >
+        <a>
           <FaYoutube />
         </a>
-        <a href="https://twitter.com/coding__hustle" target="_blank">
+        <a>
           <FaTwitter />
         </a>
       </StyledLinks>
